@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="idp.hcIndia.testScript.DownloadProspectus"/>
+      <class name="idp.hcIndia.testScript.Login"/>
+      <class name="idp.hcIndia.testScript.Signup"/>
+      <class name="idp.hcIndia.testScript.SearchResults"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
